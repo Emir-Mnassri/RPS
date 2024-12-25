@@ -1,2 +1,2 @@
 # RPS
-visiting rock paper scissor again to just get my js skills into place.
+Creating Rock Paper Scissor along with a UI.
